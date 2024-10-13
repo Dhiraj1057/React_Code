@@ -1,0 +1,1 @@
+{"root":["./src/tsx/test.tsx","./src/tsx/tic_tac_toe.tsx","./src/tsx/components/board.tsx","./src/tsx/components/game.tsx","./src/tsx/components/setup.tsx","./src/tsx/components/square.tsx","./src/tsx/components/status.tsx","./src/tsx/components/ai.tsx","./src/tsx/components/types.tsx","./src/tsx/components/utils.tsx"],"version":"5.6.3"}
